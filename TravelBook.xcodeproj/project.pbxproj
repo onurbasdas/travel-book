@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B98A8A4B25C035DF0092C2BB /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98A8A4A25C035DF0092C2BB /* ListViewController.swift */; };
 		B9EF08E525BF701F00839965 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9EF08E425BF701F00839965 /* AppDelegate.swift */; };
 		B9EF08E725BF701F00839965 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9EF08E625BF701F00839965 /* SceneDelegate.swift */; };
 		B9EF08E925BF701F00839965 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9EF08E825BF701F00839965 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B98A8A4A25C035DF0092C2BB /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		B9EF08E125BF701F00839965 /* TravelBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9EF08E425BF701F00839965 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B9EF08E625BF701F00839965 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				B9EF08E425BF701F00839965 /* AppDelegate.swift */,
 				B9EF08E625BF701F00839965 /* SceneDelegate.swift */,
 				B9EF08E825BF701F00839965 /* ViewController.swift */,
+				B98A8A4A25C035DF0092C2BB /* ListViewController.swift */,
 				B9EF08EA25BF701F00839965 /* Main.storyboard */,
 				B9EF08F025BF702200839965 /* Assets.xcassets */,
 				B9EF08F225BF702200839965 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 				B9EF08EF25BF701F00839965 /* TravelBook.xcdatamodeld in Sources */,
 				B9EF08E925BF701F00839965 /* ViewController.swift in Sources */,
 				B9EF08E525BF701F00839965 /* AppDelegate.swift in Sources */,
+				B98A8A4B25C035DF0092C2BB /* ListViewController.swift in Sources */,
 				B9EF08E725BF701F00839965 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
